@@ -16,3 +16,9 @@ Entender o que são propriedades e métodos de um objeto;
 Criar objetos a partir de funções construtoras;
 Entender o conceito de protótipos em JavaScript;
 Aprender os conceitos básicos de Orientação a Objetos com JavaScript.
+
+
+Algoritmos com JavaScript
+
+Todo e qualquer programa é composto por algoritmos, lógica de programação e estruturas de dados, que são utilizados em conjunto. 
+Após termos contato com as bases da linguagem, é hora de praticar a lógica de programação e entender como pensamos e desenvolvemos os algoritmos que serão utilizados na resolução de problemas de programação.
