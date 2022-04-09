@@ -22,3 +22,20 @@ Algoritmos com JavaScript
 
 Todo e qualquer programa é composto por algoritmos, lógica de programação e estruturas de dados, que são utilizados em conjunto. 
 Após termos contato com as bases da linguagem, é hora de praticar a lógica de programação e entender como pensamos e desenvolvemos os algoritmos que serão utilizados na resolução de problemas de programação.
+
+algoritmos-js-I
+Aprender o que são algoritmos e por que são importantes;
+      Ver como utilizamos algoritmos no dia a dia;
+      Entender como extrair a lógica do algoritmo e traduzi-la em código;
+      Ver mais de uma forma de resolver um mesmo problema com algoritmos diferentes;
+      Utiliza algoritmos em conjunto para resolver um problema de programação;
+      Aprendendo os conceitos básicos para a análise de complexidade de algoritmos.
+algoritmos-js-II
+Aprender mais exemplos de algoritmos de ordenação e busca;
+      Entender os conceitos e paradigmas por trás dos algoritmos estudados;
+      Desenvolvendo a prática de traduzir a lógica do algoritmo em código;
+      Analisar o código de um algoritmo para entender sua complexidade;
+      Ver como os algoritmos resolvem problemas de computação.
+      
+      
+      
