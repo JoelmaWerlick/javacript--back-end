@@ -32,7 +32,7 @@ Após termos contato com as bases da linguagem, é hora de praticar a lógica de
 
 *algoritmos-js-I*
 
-Aprender o que são algoritmos e por que são importantes;
+      Aprender o que são algoritmos e por que são importantes;
       Ver como utilizamos algoritmos no dia a dia;
       Entender como extrair a lógica do algoritmo e traduzi-la em código;
       Ver mais de uma forma de resolver um mesmo problema com algoritmos diferentes;
@@ -41,10 +41,31 @@ Aprender o que são algoritmos e por que são importantes;
       
 *algoritmos-js-II*
 
-Aprender mais exemplos de algoritmos de ordenação e busca;
+      Aprender mais exemplos de algoritmos de ordenação e busca;
       Entender os conceitos e paradigmas por trás dos algoritmos estudados;
       Desenvolvendo a prática de traduzir a lógica do algoritmo em código;
       Analisar o código de um algoritmo para entender sua complexidade;
       Ver como os algoritmos resolvem problemas de computação.
       
       
+**Avançando com ferramentas e paradigmas
+
+Depois de aprendermos os fundamentos, podemos ver o JavaScript sendo utilizado em conjunto com o NodeJS na criação de diversas aplicações, como por exemplo bibliotecas de código que podem ser publicadas e disponibilizadas para uso da comunidade. Também podemos avançar em nosso conhecimento de JavaScript, entendendo mais sobre como a linguagem foi desenvolvida e como utilizá-la com o paradigma de Orientação a Objetos, um dos mais utilizados hoje em desenvolvimento de aplicações.
+
+*Node-js
+
+      Aprendendo a importar e utilizar código de repositórios de código aberto;
+      Entender o que são as promessas e como trabalhar com código asíncrono em NodeJS;
+      Escrevendo suas primeiras expressões regulares e veja como utilizá-las para resolver problemas;
+      Criando seus próprios comandos para serem executados no terminal;
+      Usar as bibliotecas do NodeJS para fazer requisições HTTP e manejar respostas;
+      Fazendo seus primeiros testes de unidade com Jest.
+     
+*Js-promeiros-passos
+
+      Aprendendo os conceitos principais da orientação a objetos
+      Entendendo como o JavaScript lida com a OO através de funções e protótipos
+      Ver os princípios de classe, objeto e herança
+      Descubrindo o que é o encapsulamento e por que é importante
+      Entender o polimorfismo com exemplos
+      Analisar seu código de acordo com os padrões do SOLID
