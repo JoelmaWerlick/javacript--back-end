@@ -48,4 +48,3 @@ Aprender mais exemplos de algoritmos de ordenação e busca;
       Ver como os algoritmos resolvem problemas de computação.
       
       
-      
