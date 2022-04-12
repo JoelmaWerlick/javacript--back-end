@@ -60,6 +60,17 @@ Depois de aprendermos os fundamentos, podemos ver o JavaScript sendo utilizado e
       Criando seus próprios comandos para serem executados no terminal;
       Usar as bibliotecas do NodeJS para fazer requisições HTTP e manejar respostas;
       Fazendo seus primeiros testes de unidade com Jest.
+      
+      Durante o desenvolvimento aprendemos vários conceitos e ferramentas novos:
+
+      Importação e uso de dependências e módulos
+      O uso da lib file system
+      Como funcionam os comandos do terminal
+      O que são as promessas e o código assíncrono
+      Como utilizar expressões regulares
+      Fazer requisições HTTP e manejar as respostas
+      Testes unitários
+      A partir daqui você pode expandir ainda mais as funcionalidades dessa lib ou criar as suas próprias.
      
 *Js-promeiros-passos
 
